@@ -43,3 +43,8 @@ Exit: Enter 4. (This saves your current list.)
 
 
 
+ License
+Distributed under the MIT License. See LICENSE for more information.
+
+
+
